@@ -14,8 +14,9 @@ Database SQL code are `dbcode.txt` file
 
 ### How to Run:
 
-0. Open `ass4_online_apparel_store` in Ecliops IDE and create table named `db` and execute SQL given in `dbcode.txt` file.
-1. Goto `ass4_online_apparel_store/WebContent` and run `loginuser.jsp` file on server.
+0. Open `ass4_online_apparel_store` in Ecliops IDE and 
+1. Create table named `db` and execute SQL given in `dbcode.txt` file in MySql Workbench.
+2. Goto `ass4_online_apparel_store/WebContent` and run `loginuser.jsp` file on server.
 
 And bingo, the home page will be open like below:
 
