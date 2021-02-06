@@ -1,0 +1,26 @@
+@charset "UTF-8";
+#f{
+	background-color:blue;
+	color:white;
+	padding: 10px;
+	font-size: 25px;
+	text-align: center;
+
+}
+
+#b{
+	background-color: #729fcf;
+	width : 700px;
+	height: 300px;
+	float: center;
+	margin : 120px 10px 120px 600px;
+	color: blue;
+	
+}
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url("bg.jpeg"); 
+}  
+
